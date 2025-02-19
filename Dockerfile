@@ -17,4 +17,3 @@ COPY . .
 
 CMD ["pm2-runtime", "."]
 
-RUN sudo yum install tree
