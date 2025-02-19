@@ -16,3 +16,5 @@ RUN yarn install
 COPY . .
 
 CMD ["pm2-runtime", "."]
+
+RUN sudo yum install tree
