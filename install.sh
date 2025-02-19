@@ -5,5 +5,4 @@ rm -rf session.json
 rm -rf node_modules
 yarn
 npm start
-sudo yum install tree
 echo "ATLAS MD and all of it's Dependencies are Installed Successfully!"
